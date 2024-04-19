@@ -11,4 +11,9 @@ CSS: Drives the visual aesthetics and animations, creating an engaging user inte
 JavaScript: Adds interactivity to the login page, allowing for dynamic responses to user input.
 Usage
 
-Live Link: 
+**Sample Screenshot:**
+
+<img width="956" alt="qq" src="https://github.com/Chakilamsrikanth/Login-Page/assets/147283839/a5ee8c8f-fd43-4f59-9505-7b01a2d016f2">
+
+
+Live Link: https://chakilamsrikanth.github.io/Login-Page/
